@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>Leviathan</GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>4</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/17/2017 17:46:01" isStartedSynced="True" ended="03/17/2017 17:56:38" isEndedSynced="True">
+      <RealTime>00:10:36.5820000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="03/17/2017 17:57:28" isStartedSynced="True" ended="03/17/2017 18:07:57" isEndedSynced="True">
+      <RealTime>00:10:28.4710000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="03/17/2017 18:10:42" isStartedSynced="True" ended="03/17/2017 18:20:41" isEndedSynced="True">
+      <RealTime>00:09:58.9020000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="03/17/2017 18:22:31" isStartedSynced="True" ended="03/17/2017 18:32:33" isEndedSynced="True">
+      <RealTime>00:10:01.3380000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Judges</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="4" />
+        <Time id="1" />
+        <Time id="2" />
+        <Time id="3" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Leave Cell</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:58.3270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:58.3270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:11.0150000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:04:59.5710000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:05:30.7850000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:04:58.3270000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Penelo Joins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:59.0380000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:55.5020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:01.3230000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:00.8020000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:55.5020000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:00.7110000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Judge Ghis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:58.9020000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:59.8640000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:24.2440000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:03:00.9650000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:03:02.1840000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:59.8640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

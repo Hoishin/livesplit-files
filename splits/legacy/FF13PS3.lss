@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>Final Fantasy XIII</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PlayStation 3</Platform>
+    <Region>USA / NTSC</Region>
+    <Variables>
+      <Variable name="Platform">PS3</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>13</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/05/2016 17:14:57" isStartedSynced="True" ended="08/06/2016 02:01:33" isEndedSynced="True">
+      <RealTime>08:46:35.2890000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="08/06/2016 23:02:33" isStartedSynced="True" ended="08/07/2016 04:08:20" isEndedSynced="True" />
+    <Attempt id="3" started="08/13/2016 10:47:53" isStartedSynced="True" ended="08/13/2016 18:15:40" isEndedSynced="True">
+      <RealTime>07:27:47.0240000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="08/22/2016 02:06:38" isStartedSynced="True" ended="08/22/2016 09:31:03" isEndedSynced="True">
+      <RealTime>07:24:25.0280000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="08/23/2016 02:17:13" isStartedSynced="True" ended="08/23/2016 09:32:04" isEndedSynced="True">
+      <RealTime>07:14:49.6620000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="08/29/2016 10:35:55" isStartedSynced="True" ended="08/29/2016 10:40:45" isEndedSynced="True" />
+    <Attempt id="7" started="08/29/2016 10:41:09" isStartedSynced="True" ended="08/29/2016 16:51:46" isEndedSynced="True">
+      <RealTime>06:10:36.7640000</RealTime>
+    </Attempt>
+    <Attempt id="8" started="12/22/2016 10:46:39" isStartedSynced="True" ended="12/22/2016 10:46:42" isEndedSynced="True" />
+    <Attempt id="9" started="12/22/2016 11:04:05" isStartedSynced="True" ended="12/22/2016 17:19:35" isEndedSynced="True">
+      <RealTime>06:15:29.7090000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="12/27/2016 10:59:09" isStartedSynced="True" ended="12/27/2016 17:31:59" isEndedSynced="True">
+      <RealTime>06:32:49.6080000</RealTime>
+    </Attempt>
+    <Attempt id="11" started="02/01/2017 09:03:23" isStartedSynced="True" ended="02/01/2017 09:39:59" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Chapter 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:44.7600000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>00:13:02</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:02.7580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:15:32.7140000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:14:53.7550000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:14:32.3050000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:14:20.9880000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:14:46.7010000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:14:44.7600000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:14:04.4490000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:14:27.7810000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:02.7580000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:17.7320000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>00:25:54</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:56.5910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:17:54.0210000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:14:18.4410000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:18:34.9830000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:17:56.5880000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:15:11.9780000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:14:32.9720000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:13:56.5910000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:17:35.0710000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:48:57.5360000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>00:44:20</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:39.8040000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:23:50.6530000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:21:23.2310000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:19:59.3290000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:21:30.7440000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:20:09.4550000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:19:39.8040000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:20:06.5630000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:21:48.0910000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:24:46.8570000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>01:19:02</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:35:49.3210000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:43:27.1070000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:39:42.0600000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:40:25.8030000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:43:23.7770000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:43:39.9610000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:35:49.3210000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:37:47.7970000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:42:38.1990000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:48:13.8360000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>01:37:08</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:42.5140000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:26:56.2570000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:36:20.7370000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:23:36.9970000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:30:19.3740000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:21:20.7040000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:23:26.9790000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:20:52.7640000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:20:42.5140000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:03:06.0570000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>01:49:33</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:24.4950000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:17:21.7070000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:14:43.1140000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:14:46.7090000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:13:42.6740000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:13:20.5940000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:14:52.2210000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:12:24.4950000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:12:51.4790000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:36:52.2610000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>02:18:41</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:31:04.0150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:38:45.5560000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:39:30.5760000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:36:44.5830000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:34:36.5300000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:31:04.0150000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:33:46.2040000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:36:29.7590000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:32:47.3610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:48:39.4970000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>02:29:21</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:10.6840000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:11:56.0960000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:12:31.8160000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:11:45.4670000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:11:23.0890000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:11:53.5690000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:11:47.2360000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:11:10.6840000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:44.9580000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 9</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:29:15.9010000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>03:02:12</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:37:53.9660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:43:34.9910000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:49:09.7990000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:41:29.2600000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:43:56.1530000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:47:41.7880000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:40:36.4040000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:37:53.9660000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:38:13.3640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 10</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:51:43.9950000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>03:20:57</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:21:10.9990000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:21:10.9990000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:28:48.1050000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:32:39.7800000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:22:45.1530000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:34:46.8740000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:22:28.0940000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:22:34.6690000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:26:05.4370000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hecaton</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:19:52.4720000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>03:41:26</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:23:40.6130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:27:50.9300000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:29:39.5140000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:26:28.7310000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:27:03.9560000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:28:08.4770000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:26:49.9510000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:23:40.6130000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dahaka</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:59:36.9580000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>04:17:12</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:39:44.4860000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:55:11.3860000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:50:48.4120000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:45:14.6340000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:45:55.4110000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:39:44.4860000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:44:22.2730000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:43:01.9740000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 11</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:10:58.6010000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>04:27:54</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:00.2700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:20:04.6690000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:15:51.9100000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:12:27.7210000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:18:22.2290000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:11:21.6430000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:11:46.9830000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:00.2700000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 12</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:45:17.3940000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>04:57:50</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:34:18.7930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>01:20:06.5220000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:57:46.6740000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>01:16:11.1540000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:34:30.6660000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:34:18.7930000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:35:52.0440000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:41:53.1100000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 13</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:10:36.7640000</RealTime>
+        </SplitTime>
+        <SplitTime name="Ossy">
+          <RealTime>05:22:41</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:25:19.3700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>01:08:54.7470000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:39:05.2980000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:30:07.7180000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:55:01.7610000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:25:19.3700000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:29:16.7210000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:34:19.3860000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>Garamsythe - Barheim</GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>9</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/17/2017 07:28:08" isStartedSynced="True" ended="03/17/2017 07:34:55" isEndedSynced="True" />
+    <Attempt id="2" started="03/17/2017 07:45:58" isStartedSynced="True" ended="03/17/2017 08:10:13" isEndedSynced="True">
+      <RealTime>00:24:14.7440000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="03/17/2017 08:18:32" isStartedSynced="True" ended="03/17/2017 08:18:34" isEndedSynced="True" />
+    <Attempt id="4" started="03/17/2017 08:18:36" isStartedSynced="True" ended="03/17/2017 08:18:57" isEndedSynced="True" />
+    <Attempt id="5" started="03/17/2017 08:19:42" isStartedSynced="True" ended="03/17/2017 08:43:16" isEndedSynced="True">
+      <RealTime>00:23:33.6780000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="03/17/2017 16:53:35" isStartedSynced="True" ended="03/17/2017 17:17:53" isEndedSynced="True">
+      <RealTime>00:24:17.9040000</RealTime>
+    </Attempt>
+    <Attempt id="7" started="03/17/2017 17:20:11" isStartedSynced="True" ended="03/17/2017 17:43:13" isEndedSynced="True">
+      <RealTime>00:23:02.3920000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Guards</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:12.0270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:12.0270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:18.9610000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:19.9180000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:03:35.8790000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:03:12.0270000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Flans</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:56.2810000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.2270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:42.2270000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:44.0090000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:44.4380000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:44.2540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Start Firemane</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:36.1960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:36.4500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:41.4320000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:41.7050000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:36.4500000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:39.9150000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Finish Firemane</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:15.8490000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.6530000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:31.6010000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:55.8300000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:33.4780000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:39.6530000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Switch</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:10.5960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:54.7470000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:09:55.6170000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:10:03.2640000</RealTime>
+        </Time>
+        <Time id="6" />
+        <Time id="7">
+          <RealTime>00:09:54.7470000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Start Mimic Queen</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:09.8410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:59.2450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2" />
+        <Time id="5" />
+        <Time id="6" />
+        <Time id="7">
+          <RealTime>00:03:59.2450000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Finish Mimic Queen</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:02.3920000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:52.5510000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:04.9060000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:04:48.9520000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:14:47.6590000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:52.5510000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

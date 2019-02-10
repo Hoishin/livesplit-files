@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>Dragon Quest VIII: Journey of the Cursed King</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PlayStation 2</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/24/2016 07:56:57" isStartedSynced="True" ended="04/24/2016 08:18:00" isEndedSynced="True" />
+    <Attempt id="2" started="04/26/2016 12:17:39" isStartedSynced="True" ended="04/26/2016 12:18:17" isEndedSynced="True" />
+    <Attempt id="3" started="04/29/2016 11:42:55" isStartedSynced="True" ended="04/29/2016 11:50:39" isEndedSynced="True" />
+    <Attempt id="4" started="04/29/2016 11:50:45" isStartedSynced="True" ended="04/29/2016 11:59:27" isEndedSynced="True" />
+    <Attempt id="5" started="04/29/2016 11:59:31" isStartedSynced="True" ended="04/29/2016 22:58:54" isEndedSynced="True">
+      <RealTime>10:59:23.3940000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Slime Crown</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:15.9920000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu" />
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:15.9920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:20:15.9920000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Geyzer</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:52.7520000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>00:29:54</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:29:36.7600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:29:36.7600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Khalamari</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:40:33.3500000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>01:10:04</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:50:40.5980000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tortured Soul</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:04:56</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>01:39:01</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:24:22.6500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Angelo joins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:20:03</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>01:52:38</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:15:07</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Metal Slime farm ends</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:19:17.9390000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu" />
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:59:14.9390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liquid Metal farm ends</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:57:32.6550000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu" />
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:38:14.7160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>02:38:14.7160000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Obtain Ship</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:59:13</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>04:17:02</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:40.3450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Great Argon Lizard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:30:38.9440000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>04:46:02</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:31:25.9440000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:33:06.2890000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dhoulmagus 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:57:17</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>05:19:06</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:26:38.0560000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dhoulmagus 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:03:21.0500000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>05:27:31</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:04.0500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:32:42.1060000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Evil Jessica</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:32:02.4560000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>05:53:35</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:28:41.4060000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:28:41.4060000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Ultimate Key</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:58:47.1340000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>06:34:32</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:26:44.6780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:26:44.6780000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Empyrea</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:35:30.6420000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>07:10:12</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:36:43.5080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:36:43.5080000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gemon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:45:37.3060000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>07:19:37</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:06.6640000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:10:06.6640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Evil Sir Leopold</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:01:09.7980000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>07:34:33</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:15:32.4920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:15:32.4920000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Marcello</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:20:09.2850000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>07:51:07</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:18:59.4870000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:18:59.4870000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mini Rhapthorne</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:50:22</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>08:14:31</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:30:12.7150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ruin</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:58:37</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>08:24:19</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:15</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Rhapthorne</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:34:40.1830000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>08:54:26</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:36:03.1830000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>01:14:30.8980000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:59:23.3940000</RealTime>
+        </SplitTime>
+        <SplitTime name="World Record: Rasu">
+          <RealTime>09:18:04</RealTime>
+        </SplitTime>
+        <SplitTime name="Empty" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:24:43.2110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:24:43.2110000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

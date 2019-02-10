@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>Pharos</GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/06/2017 22:47:02" isStartedSynced="True" ended="04/06/2017 22:53:09" isEndedSynced="True" />
+    <Attempt id="2" started="04/06/2017 22:58:23" isStartedSynced="True" ended="04/06/2017 23:39:38" isEndedSynced="True">
+      <RealTime>00:41:14.3070000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Pandaemonium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:42.3070000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roostalol">
+          <RealTime>00:05:46</RealTime>
+        </SplitTime>
+        <SplitTime name="PB">
+          <RealTime>00:06:04.5000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:42.3070000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:42.3070000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Slyt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:47.6330000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roostalol">
+          <RealTime>00:19:55.8000000</RealTime>
+        </SplitTime>
+        <SplitTime name="PB">
+          <RealTime>00:20:43.7000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:15:05.3260000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:15:05.3260000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Fenrir</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:27:29.4100000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roostalol">
+          <RealTime>00:26:30.2000000</RealTime>
+        </SplitTime>
+        <SplitTime name="PB">
+          <RealTime>00:27:23.4000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:41.7770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:06:41.7770000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hashmal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:18.0630000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roostalol">
+          <RealTime>00:33:22.6000000</RealTime>
+        </SplitTime>
+        <SplitTime name="PB">
+          <RealTime>00:35:26</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:48.6530000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:07:48.6530000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cid 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:14.3070000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roostalol">
+          <RealTime>00:39:45.5000000</RealTime>
+        </SplitTime>
+        <SplitTime name="PB">
+          <RealTime>00:41:38.3000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:56.2440000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:56.2440000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

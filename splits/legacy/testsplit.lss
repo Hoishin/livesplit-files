@@ -1,0 +1,2107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>Baten Kaitos: Eternal Wings and the Lost Ocean</GameName>
+  <CategoryName>100%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">GameCube</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>999</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/24/2016 16:36:54" isStartedSynced="True" ended="09/24/2016 16:37:09" isEndedSynced="True" />
+    <Attempt id="2" started="09/24/2016 16:37:36" isStartedSynced="True" ended="09/24/2016 16:37:50" isEndedSynced="True" />
+    <Attempt id="3" started="09/24/2016 16:40:48" isStartedSynced="True" ended="09/24/2016 16:41:16" isEndedSynced="True" />
+    <Attempt id="4" started="09/26/2016 18:49:20" isStartedSynced="True" ended="09/26/2016 18:49:24" isEndedSynced="True" />
+    <Attempt id="5" started="09/26/2016 18:50:36" isStartedSynced="True" ended="09/27/2016 01:42:33" isEndedSynced="True">
+      <RealTime>06:51:56.4450000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="09/28/2016 00:46:09" isStartedSynced="True" ended="09/28/2016 02:28:37" isEndedSynced="True" />
+    <Attempt id="7" started="09/29/2016 01:35:30" isStartedSynced="True" ended="09/29/2016 01:35:33" isEndedSynced="True" />
+    <Attempt id="8" started="09/29/2016 01:37:54" isStartedSynced="True" ended="09/29/2016 03:57:28" isEndedSynced="True" />
+    <Attempt id="9" started="09/30/2016 02:19:23" isStartedSynced="True" ended="09/30/2016 02:19:25" isEndedSynced="True" />
+    <Attempt id="10" started="09/30/2016 02:21:10" isStartedSynced="True" ended="09/30/2016 06:32:17" isEndedSynced="True" />
+    <Attempt id="11" started="10/03/2016 03:17:40" isStartedSynced="True" ended="10/03/2016 03:17:45" isEndedSynced="True" />
+    <Attempt id="12" started="10/03/2016 03:19:23" isStartedSynced="True" ended="10/03/2016 03:20:01" isEndedSynced="True" />
+    <Attempt id="13" started="10/03/2016 03:20:34" isStartedSynced="True" ended="10/03/2016 06:17:23" isEndedSynced="True" />
+    <Attempt id="14" started="10/03/2016 19:36:33" isStartedSynced="True" ended="10/03/2016 19:36:43" isEndedSynced="True" />
+    <Attempt id="15" started="10/03/2016 19:37:07" isStartedSynced="True" ended="10/03/2016 19:37:14" isEndedSynced="True" />
+    <Attempt id="16" started="10/03/2016 19:37:37" isStartedSynced="True" ended="10/03/2016 19:39:59" isEndedSynced="True" />
+    <Attempt id="17" started="10/03/2016 19:41:49" isStartedSynced="True" ended="10/03/2016 19:42:28" isEndedSynced="True" />
+    <Attempt id="18" started="10/03/2016 19:42:47" isStartedSynced="True" ended="10/03/2016 23:25:51" isEndedSynced="True" />
+    <Attempt id="19" started="10/05/2016 01:18:44" isStartedSynced="True" ended="10/05/2016 02:20:41" isEndedSynced="True" />
+    <Attempt id="20" started="10/06/2016 00:25:16" isStartedSynced="False" ended="10/06/2016 00:25:24" isEndedSynced="False" />
+    <Attempt id="21" started="10/06/2016 00:25:42" isStartedSynced="False" ended="10/06/2016 01:32:47" isEndedSynced="True" />
+    <Attempt id="22" started="10/07/2016 00:46:45" isStartedSynced="True" ended="10/07/2016 00:46:48" isEndedSynced="True" />
+    <Attempt id="23" started="10/07/2016 00:48:21" isStartedSynced="True" ended="10/07/2016 00:48:27" isEndedSynced="True" />
+    <Attempt id="24" started="10/07/2016 00:48:42" isStartedSynced="True" ended="10/07/2016 07:19:11" isEndedSynced="True" />
+    <Attempt id="25" started="10/13/2016 23:49:39" isStartedSynced="True" ended="10/14/2016 03:45:22" isEndedSynced="True" />
+    <Attempt id="26" started="10/15/2016 00:27:05" isStartedSynced="True" ended="10/15/2016 00:27:08" isEndedSynced="True" />
+    <Attempt id="27" started="10/15/2016 00:39:21" isStartedSynced="True" ended="10/15/2016 00:39:53" isEndedSynced="True" />
+    <Attempt id="28" started="10/15/2016 00:40:06" isStartedSynced="True" ended="10/15/2016 07:20:50" isEndedSynced="True">
+      <RealTime>06:40:43.7390000</RealTime>
+    </Attempt>
+    <Attempt id="29" started="10/16/2016 23:35:52" isStartedSynced="False" ended="10/16/2016 23:37:50" isEndedSynced="True" />
+    <Attempt id="30" started="10/16/2016 23:37:57" isStartedSynced="True" ended="10/17/2016 04:13:42" isEndedSynced="True" />
+    <Attempt id="31" started="10/21/2016 02:35:38" isStartedSynced="True" ended="10/21/2016 02:35:46" isEndedSynced="True" />
+    <Attempt id="32" started="10/21/2016 02:35:51" isStartedSynced="True" ended="10/21/2016 04:15:58" isEndedSynced="True" />
+    <Attempt id="33" started="10/22/2016 02:53:29" isStartedSynced="True" ended="10/22/2016 02:53:31" isEndedSynced="True" />
+    <Attempt id="34" started="10/22/2016 02:58:30" isStartedSynced="True" ended="10/22/2016 03:00:53" isEndedSynced="True" />
+    <Attempt id="35" started="10/22/2016 03:01:02" isStartedSynced="True" ended="10/22/2016 09:11:18" isEndedSynced="True" />
+    <Attempt id="36" started="10/26/2016 00:45:42" isStartedSynced="True" ended="10/26/2016 07:18:46" isEndedSynced="True">
+      <RealTime>06:33:03.2780000</RealTime>
+    </Attempt>
+    <Attempt id="37" started="10/28/2016 01:20:46" isStartedSynced="True" ended="10/28/2016 01:22:31" isEndedSynced="True" />
+    <Attempt id="38" started="10/28/2016 01:22:41" isStartedSynced="True" ended="10/28/2016 01:25:04" isEndedSynced="True" />
+    <Attempt id="39" started="10/28/2016 01:25:17" isStartedSynced="True" ended="10/28/2016 07:31:59" isEndedSynced="True" />
+    <Attempt id="40" started="10/31/2016 03:17:24" isStartedSynced="True" ended="10/31/2016 03:18:16" isEndedSynced="True" />
+    <Attempt id="41" started="10/31/2016 03:18:26" isStartedSynced="True" ended="10/31/2016 04:24:55" isEndedSynced="True" />
+    <Attempt id="42" started="11/02/2016 00:57:46" isStartedSynced="True" ended="11/02/2016 01:00:10" isEndedSynced="True" />
+    <Attempt id="43" started="11/02/2016 01:00:16" isStartedSynced="True" ended="11/02/2016 02:05:13" isEndedSynced="True" />
+    <Attempt id="44" started="11/05/2016 01:51:29" isStartedSynced="True" ended="11/05/2016 07:21:44" isEndedSynced="True" />
+    <Attempt id="45" started="01/30/2017 02:10:31" isStartedSynced="True" ended="01/30/2017 02:11:07" isEndedSynced="True" />
+    <Attempt id="46" started="01/30/2017 02:11:09" isStartedSynced="True" ended="01/30/2017 02:11:11" isEndedSynced="True" />
+    <Attempt id="47" started="01/30/2017 02:11:16" isStartedSynced="True" ended="01/30/2017 02:29:08" isEndedSynced="True" />
+    <Attempt id="48" started="01/30/2017 02:29:25" isStartedSynced="True" ended="01/30/2017 02:52:20" isEndedSynced="True" />
+    <Attempt id="49" started="01/30/2017 02:52:30" isStartedSynced="True" ended="01/30/2017 09:29:20" isEndedSynced="True">
+      <RealTime>06:36:49.4760000</RealTime>
+    </Attempt>
+    <Attempt id="50" started="01/30/2017 16:22:58" isStartedSynced="True" ended="01/30/2017 20:57:35" isEndedSynced="True" />
+    <Attempt id="51" started="01/31/2017 00:39:06" isStartedSynced="True" ended="01/31/2017 04:56:00" isEndedSynced="True" />
+    <Attempt id="52" started="02/01/2017 00:34:14" isStartedSynced="True" ended="02/01/2017 00:35:20" isEndedSynced="True" />
+    <Attempt id="53" started="02/01/2017 00:42:48" isStartedSynced="True" ended="02/01/2017 00:43:27" isEndedSynced="True" />
+    <Attempt id="54" started="02/01/2017 00:43:30" isStartedSynced="True" ended="02/01/2017 04:47:25" isEndedSynced="True" />
+    <Attempt id="55" started="02/01/2017 15:35:57" isStartedSynced="True" ended="02/01/2017 15:36:31" isEndedSynced="True" />
+    <Attempt id="56" started="02/01/2017 15:36:35" isStartedSynced="True" ended="02/01/2017 21:42:18" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Ultimate Meme</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:48.7930000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>00:11:48.9790000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>00:11:51.4810000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>00:11:49.6280000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>00:11:56.9400000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>00:11:59.2880000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>00:11:53.1680000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:32.6580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:12:07.0580000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:11:46.5700000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:11:38.8150000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:39.9380000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:11:52.2330000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:11:49.3340000</RealTime>
+        </Time>
+        <Time id="19" />
+        <Time id="21">
+          <RealTime>00:11:39.9470000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:11:47.6830000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:11:32.6910000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:11:46.1060000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:11:45.2340000</RealTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:11:43.6420000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:11:47.1300000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:11:48.7930000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:11:46.6480000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:11:35.8850000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:11:42.0370000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:11:52.7660000</RealTime>
+        </Time>
+        <Time id="47">
+          <RealTime>00:11:44.3820000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:11:40.0870000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:11:51.4360000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:11:32.6580000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:11:36.3450000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:11:48.8190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Baten Kaitos</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:52.1460000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>00:28:29.1320000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>00:28:10.9050000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>00:28:21.9200000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>00:29:07.0960000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>00:28:24.1770000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>00:28:32.1100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:15:57.5380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:16:46.2840000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:18:23.1710000</RealTime>
+        </Time>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:17:05.3570000</RealTime>
+        </Time>
+        <Time id="13" />
+        <Time id="18" />
+        <Time id="19">
+          <RealTime>00:28:36.2940000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:16:38.7810000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:16:50.0060000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:16:27.0920000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:16:41.5900000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:16:42.0580000</RealTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:15:57.5380000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:18:07.5490000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:18:03.3530000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:16:33.8990000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:16:44.4720000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:16:57.4950000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:16:42.0750000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:17:07.6820000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:17:04.5140000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:16:39.7190000</RealTime>
+        </Time>
+        <Time id="54" />
+        <Time id="56" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>HUNDO!</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:04.5960000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>00:45:20.8650000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>00:45:41.0460000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>00:45:57.0800000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>00:46:10.4320000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>00:46:45.9580000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>00:46:44.5360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:16:47.4620000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:17:09.7970000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:17:27.3250000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:34:39.3750000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:16:51.3010000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:34:43.7510000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:35:03.8800000</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:17:42.1840000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:17:22.4460000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:17:07.1510000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:16:47.4620000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:17:23.3260000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:17:45.4460000</RealTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:17:13.5730000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:17:08.5890000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:17:12.4500000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:17:26.5460000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:17:15.4640000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:17:16.5610000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:16:48.5490000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:18:28.6530000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:17:45.0210000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:18:23.5310000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:34:06.7420000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:34:29.8990000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mimic Queen</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:01:48.3240000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>01:00:15.7560000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>01:00:42.0060000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>01:00:55.3430000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>01:01:04.1740000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>01:02:30</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>01:01:58.3420000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:14:16.7470000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:15:07.7390000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:15:23.4980000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:15:25.2340000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:15:11.7480000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:15:27.3150000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:14:46.7380000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:15:10.2930000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:14:53.4930000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:14:38.0120000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:15:16.7490000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:14:43.1140000</RealTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:14:30.3460000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:14:39.8190000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:14:43.7280000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:14:24.9370000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:14:40.3670000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:14:59.5160000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:14:16.7470000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:14:39.1900000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:14:24.2350000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:14:53.2180000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:14:57.1110000</RealTime>
+        </Time>
+        <Time id="56" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dustia Farming 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:20:31.1020000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>01:17:56.0680000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2" />
+        <SplitTime name="Roosta 3">
+          <RealTime>01:18:53.3440000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>01:18:58.2060000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>01:20:18.8390000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>01:22:26</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:38.0130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:17:38.0130000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:17:52.7570000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:18:13.7330000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:18:21.9030000</RealTime>
+        </Time>
+        <Time id="13" />
+        <Time id="18">
+          <RealTime>00:18:15.0530000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:17:52.2950000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:18:25.9920000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:18:01.7100000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:18:15.7340000</RealTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:18:24.1820000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:18:13.5500000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:18:42.7780000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:17:40.3630000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:17:46.7730000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:18:42.1200000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:18:16.8750000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:17:50.4770000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:17:53.4340000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:32:38.9950000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Judges</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:41:44.1220000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>01:39:06.2280000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>01:39:50.1620000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>01:40:01.1490000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>01:40:07.6180000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>01:41:21.8170000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>01:44:01.2330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:52.6050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:21:25.8080000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:22:04.4580000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:21:22.5210000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:39:43.9870000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:21:05.3990000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:21:24.1950000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:21:33.6500000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:21:00.7940000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:21:30.5040000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:21:08.2080000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:21:13.0200000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:20:52.6050000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:21:18.9760000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:21:23.8050000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:21:13.8530000</RealTime>
+        </Time>
+        <Time id="51" />
+        <Time id="54">
+          <RealTime>00:20:58.8290000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:20:53.5430000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Judge Ghis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:48:31.7900000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>01:45:35.3070000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>01:46:37.0930000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>01:46:38.5820000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>01:46:54.1330000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>01:47:59.7260000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>01:50:50.0470000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:35.5000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:36.0290000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:07:10.0080000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:07:22.1500000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:06:57.1490000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:07:21.0130000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:06:43.3980000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:06:42.1570000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:06:44.2290000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:06:43.9800000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:06:45.5090000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:06:47.6680000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:06:46.3000000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:06:39.3340000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:06:39.7120000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:06:37.3520000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:28:09.3820000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:06:51.7980000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:06:35.5000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Garuda</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:58:49.5800000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>01:56:08.9540000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>01:56:54.5670000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>01:56:47.1120000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>01:57:10.1420000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>01:58:18.6090000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>02:01:06.8090000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:09.3370000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:10:17.6560000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:10:21.5890000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:10:31.1780000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:10:18.6230000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:10:11.4870000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:11:25.8740000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:10:24.9050000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:10:14.1690000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:10:33.7760000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:10:14.1920000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:10:17.7900000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:11:59.6880000</RealTime>
+        </Time>
+        <Time id="44" />
+        <Time id="49" />
+        <Time id="50">
+          <RealTime>00:10:09.3370000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:10:38.7290000</RealTime>
+        </Time>
+        <Time id="54" />
+        <Time id="56">
+          <RealTime>00:11:21.2340000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Belias</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:08:25.8010000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>02:05:31.8370000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>02:06:08.1240000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>02:06:18.7200000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>02:06:43.2900000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>02:07:52.1710000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>02:10:23.5310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:19.4800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:09:33.6630000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:09:24.9950000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:09:43.7180000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:09:44.7990000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:10:39.1830000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:09:19.4800000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:10:02.5090000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:09:26.1600000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:09:34.8950000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:09:29.0710000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:09:36.2210000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:09:32.9510000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:20:20.4070000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:19:48.4240000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:09:33.6010000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:09:26.8780000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:19:46.7110000</RealTime>
+        </Time>
+        <Time id="56" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tiamat</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:36:09.7050000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>02:33:30.2110000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>02:34:05.1030000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>02:33:58.4770000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>02:36:16.0020000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>02:36:45.9210000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>02:39:19.9800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:27:32.8510000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:27:53.2610000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:27:58.3100000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:28:40.7000000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:28:54.4600000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:28:02.9920000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:28:41.5310000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:28:25.3510000</RealTime>
+        </Time>
+        <Time id="30" />
+        <Time id="35">
+          <RealTime>00:29:19.8860000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:27:43.9040000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:27:34.7360000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:28:12.5650000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:27:43.7050000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:27:38.2850000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:27:32.8510000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:28:59.5830000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:38:16.2280000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jelly Farming 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:13:23.9500000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>03:08:10.1700000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>03:05:42.0450000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>03:07:10.4850000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>03:07:56.4620000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>03:12:01.0310000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>03:14:14.3640000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:34:09.5000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:43:28.6300000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:39:45.3430000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:39:25.9720000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:42:18.1010000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:39:09.1610000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:37:05.1670000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>01:09:45.4260000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:37:44.4200000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:37:14.2450000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:37:44.7360000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:42:06.6720000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:39:01.7780000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:39:34.1670000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:36:01.9350000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:34:56.7580000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:34:09.5000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Vinuskar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="Roosta 1">
+          <RealTime>03:22:38.3780000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>03:24:01.3840000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>03:25:11.5490000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>03:26:23.1550000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>03:30:14.6400000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>03:34:21.0960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:15:06.9610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:15:28.6940000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:15:40.1170000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:17:58.1080000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:15:18.7250000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:15:57.5490000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:16:23.4130000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:15:10.9560000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:15:25.2040000</RealTime>
+        </Time>
+        <Time id="36" />
+        <Time id="39">
+          <RealTime>00:15:32.3700000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:15:19.7720000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="50">
+          <RealTime>00:15:14.7920000</RealTime>
+        </Time>
+        <Time id="51" />
+        <Time id="54">
+          <RealTime>00:16:00.2070000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:15:06.9610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mateus</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:33:50.9850000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>03:26:47.8770000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>03:28:10.5170000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>03:29:16.9810000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>03:30:34.0300000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>03:34:24.7790000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>03:38:44.2500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:09.3790000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:04:16.7230000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:15.5550000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:04:29.4370000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:06:49.1100000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:04:26.5000000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:04:09.3790000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:04:12.6910000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:20:27.0350000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:04:24.0510000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:04:22.7870000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="50">
+          <RealTime>00:04:26.3910000</RealTime>
+        </Time>
+        <Time id="51" />
+        <Time id="54">
+          <RealTime>00:05:13.4400000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:04:15.8970000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Judge Bergan</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:43:49.3990000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>03:32:43.8270000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>03:34:20.5660000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>03:35:22.8590000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>03:36:34.3630000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>03:41:04.8490000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>03:45:57</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:48.4290000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:23.8290000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:08:53.3190000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:05:57.9720000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:06:58.1900000</RealTime>
+        </Time>
+        <Time id="28" />
+        <Time id="30">
+          <RealTime>00:05:55.1960000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:08:18.9910000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:09:58.4140000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:07:14.0760000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:05:48.4290000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:26:30.8620000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:06:13.5000000</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:25:47.8240000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>00:06:05.2650000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:06:02.4160000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mandragoras</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:08:00.8600000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>03:56:18.7990000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>03:58:21.0450000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>03:58:51.4520000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:01:49.4330000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>04:07:34.9450000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>04:11:10.5020000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:23:37.0550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:23:58.5700000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:27:55.0220000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:33:19.5000000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:25:52.5790000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:23:57.6340000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:24:11.4610000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:27:07.9220000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:26:36.2120000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:24:17.5110000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:23:37.0550000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:25:01.4590000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ahriman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:16:36.9530000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>04:03:45.7480000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>04:06:02.9630000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>04:08:36.6460000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:09:01.9140000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>04:16:03.3010000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>04:20:04.9990000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:36.0930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:13:12.8580000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:11:35.9810000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:09:36.0870000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:09:52.1910000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:09:02.0220000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:08:36.0930000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:09:18.5970000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:08:52.4700000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:08:55.2510000</RealTime>
+        </Time>
+        <Time id="50">
+          <RealTime>00:08:42.9390000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:08:51.1460000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cid 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:39:18.9100000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>04:23:33.1700000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>04:26:21.0480000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>04:30:47.4460000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:29:35.2190000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>04:36:47.1020000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>04:41:12.5140000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:20.9300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:23:03.6730000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:23:31.8040000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:20:37.7370000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:21:14.7290000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:22:41.9570000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:22:06.0220000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:21:07.4330000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:20:54.6520000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:20:20.9300000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Rafflesia</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:46:17.6740000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>04:30:00.4220000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>04:32:54.3770000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>04:37:19.2520000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:36:13.5690000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>04:43:56.6180000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>04:48:53.7640000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:33.5920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:08:10.2780000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:07:03.4230000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:06:59.1180000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:06:39.6130000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:06:58.7640000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:06:50.8050000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:07:19.8530000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:07:13.3780000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:06:33.5920000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Daedalus</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:52:27.5410000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>04:36:23.1400000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>04:39:18.2930000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>04:43:51.7790000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:42:48.5860000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>04:50:35</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>04:55:51.7880000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:57.7400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:39.8930000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:06:36.1090000</RealTime>
+        </Time>
+        <Time id="28" />
+        <Time id="35" />
+        <Time id="36">
+          <RealTime>00:06:09.8670000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:05:57.7400000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:07:53.1820000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="56">
+          <RealTime>00:06:12.1050000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Tyrant</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:01:48.3870000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>04:45:13.6350000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>04:49:08.7030000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>04:53:05.7660000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:51:56.5070000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:00:13.1260000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>05:05:26.2640000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:20.8460000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:12:00.1690000</RealTime>
+        </Time>
+        <Time id="24" />
+        <Time id="28">
+          <RealTime>00:15:47.9490000</RealTime>
+        </Time>
+        <Time id="35" />
+        <Time id="36">
+          <RealTime>00:09:20.8460000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:09:35.9570000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:10:28.4400000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="56">
+          <RealTime>00:09:21.6650000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shemhazai</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:09:23.7910000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>04:52:46.9660000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>04:57:05.3350000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:00:29.2370000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>04:59:54.6840000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:08:24.4150000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>05:13:02.6790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:35.4040000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:09:07.6230000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:18:12.6880000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:15:39.1970000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:24:12.2980000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:07:35.4040000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:07:50.6420000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:08:29.1990000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:27:47.0890000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:07:50.6410000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hydro</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:20:52.8130000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>05:03:36.8230000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>05:07:37.5620000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:11:00.9830000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>05:10:29.6760000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:19:09.4120000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>05:25:27.9970000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:57.4830000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:11:43.3050000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:13:30.3080000</RealTime>
+        </Time>
+        <Time id="28" />
+        <Time id="35" />
+        <Time id="36">
+          <RealTime>00:11:29.0220000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:10:57.4830000</RealTime>
+        </Time>
+        <Time id="44">
+          <RealTime>00:11:31.0480000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="56">
+          <RealTime>00:11:26.0890000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pandemonium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:27:15.2970000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>05:09:48.4020000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>05:13:50.3610000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:17:03.1180000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>05:16:34.4450000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:25:15.0650000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>05:31:55.1500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:18.9010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:06:18.9010000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:06:50.5100000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:18:07.9110000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:18:08.6300000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:06:22.4840000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:08:56.9490000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="56">
+          <RealTime>00:13:48.5210000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Slyt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:42:43.4100000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>05:24:50.3720000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>05:29:02.1510000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:31:54.0590000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>05:33:11.0450000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:40:40.2570000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>05:49:12</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:14:55.0110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5" />
+        <Time id="24">
+          <RealTime>00:16:10.3400000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:15:22.3570000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:14:55.0110000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:15:28.1130000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:15:11.1380000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:33:21.3860000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:15:45.0020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Fenrir</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:49:46.1020000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>05:31:27.0850000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>05:36:00.2260000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:39:17.2200000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>05:40:09.3900000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:47:22.0100000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>05:56:28.7040000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:42.6890000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:27:08.6920000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:08:32.6890000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:06:57.5810000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:09:18.0150000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:07:02.6920000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:07:17.7160000</RealTime>
+        </Time>
+        <Time id="49" />
+        <Time id="56">
+          <RealTime>00:06:42.6890000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hashmal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:57:19.9060000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>05:38:09.5590000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>05:43:08.6940000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:45:48.5230000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>05:47:32.3120000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>05:54:24.1890000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>06:05:47.8780000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:39.1500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:08:07.1100000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:06:39.1500000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:07:51.7990000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:09:04.3750000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:07:33.8040000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:07:14.2290000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:15:02.0910000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>00:07:25.0970000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cid 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:06:19.7110000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>05:45:00.3890000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>05:49:48.6160000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>05:54:01.6840000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>05:54:36.2500000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>06:02:22.7590000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>06:12:41.3090000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:59.8050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:09:14.7270000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:09:57.8970000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:09:57.6880000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:08:59.8050000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:10:00.3790000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Undying</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:24:02.3290000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>06:00:14.5320000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>06:05:58.1490000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>06:09:54.8860000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>06:13:04.1300000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>06:18:36.4340000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>06:30:43.4100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:42.6180000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:19:55.7590000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:18:06.2960000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:17:42.6180000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:18:29.1310000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:33:03.2780000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 1">
+          <RealTime>06:09:15.6580000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 2">
+          <RealTime>06:15:17.8560000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 3">
+          <RealTime>06:18:56.8690000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 4">
+          <RealTime>06:22:03.4170000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 5">
+          <RealTime>06:27:36.6720000</RealTime>
+        </SplitTime>
+        <SplitTime name="Roosta 6">
+          <RealTime>06:39:42.6790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:00.9490000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:09:01.7030000</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:09:25.2550000</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:09:00.9490000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:09:02.5900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
