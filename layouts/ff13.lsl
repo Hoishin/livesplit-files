@@ -62,15 +62,10 @@
       </Settings>
     </Component>
     <Component>
-      <Path>
-      </Path>
-      <Settings />
-    </Component>
-    <Component>
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <CurrentSplitTopColor>FF595959</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF5A5A5A</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF0F0F0F</CurrentSplitBottomColor>
         <VisualSplitCount>17</VisualSplitCount>
         <SplitPreviewCount>0</SplitPreviewCount>
@@ -115,7 +110,7 @@
         <IndentSectionSplit>True</IndentSectionSplit>
         <ShowIconSectionSplit>False</ShowIconSectionSplit>
         <ShowSectionIcon>False</ShowSectionIcon>
-        <HeaderGradient>Plain</HeaderGradient>
+        <HeaderGradient>Vertical</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
         <HeaderTimes>True</HeaderTimes>
@@ -125,7 +120,7 @@
         <SectionTimerAccuracy>Seconds</SectionTimerAccuracy>
         <SubsplitTopColor>8D000000</SubsplitTopColor>
         <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
-        <HeaderTopColor>2B000000</HeaderTopColor>
+        <HeaderTopColor>FF5A5A5A</HeaderTopColor>
         <HeaderBottomColor>D8000000</HeaderBottomColor>
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
