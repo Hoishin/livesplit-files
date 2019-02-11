@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>95</X>
+  <X>7</X>
   <Y>13</Y>
   <VerticalWidth>252</VerticalWidth>
   <VerticalHeight>1020</VerticalHeight>

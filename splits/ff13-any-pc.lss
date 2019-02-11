@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>44</AttemptCount>
+  <AttemptCount>45</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/19/2019 19:22:29" isStartedSynced="True" ended="01/19/2019 19:24:43" isEndedSynced="True" />
     <Attempt id="2" started="01/19/2019 19:33:56" isStartedSynced="True" ended="01/20/2019 02:28:08" isEndedSynced="True">
@@ -84,6 +84,10 @@
       <RealTime>05:28:06.8590000</RealTime>
       <GameTime>05:06:25.2270000</GameTime>
     </Attempt>
+    <Attempt id="47" started="02/11/2019 09:07:29" isStartedSynced="True" ended="02/11/2019 14:33:11" isEndedSynced="True">
+      <RealTime>05:25:42.8110000</RealTime>
+      <GameTime>05:03:52.0270000</GameTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -91,8 +95,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:01:29.9300000</RealTime>
-          <GameTime>00:01:20.8850000</GameTime>
+          <RealTime>00:01:31.9240000</RealTime>
+          <GameTime>00:01:22.8980000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:01:30.5320000</RealTime>
@@ -164,6 +168,10 @@
           <RealTime>00:01:29.9300000</RealTime>
           <GameTime>00:01:20.8850000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:31.9240000</RealTime>
+          <GameTime>00:01:22.8980000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -171,8 +179,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:48.9080000</RealTime>
-          <GameTime>00:03:34.5320000</GameTime>
+          <RealTime>00:04:06.0280000</RealTime>
+          <GameTime>00:03:46.1690000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:03:43.3480000</RealTime>
@@ -233,6 +241,10 @@
           <RealTime>00:02:18.9780000</RealTime>
           <GameTime>00:02:13.6470000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:34.1040000</RealTime>
+          <GameTime>00:02:23.2710000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -240,8 +252,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:15.6870000</RealTime>
-          <GameTime>00:04:57.5000000</GameTime>
+          <RealTime>00:05:39.5110000</RealTime>
+          <GameTime>00:05:16.1460000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:05:05.2240000</RealTime>
@@ -302,6 +314,10 @@
           <RealTime>00:01:26.7790000</RealTime>
           <GameTime>00:01:22.9680000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:33.4830000</RealTime>
+          <GameTime>00:01:29.9770000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -309,8 +325,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:09:50.4370000</RealTime>
-          <GameTime>00:08:59.7070000</GameTime>
+          <RealTime>00:09:06.0600000</RealTime>
+          <GameTime>00:08:25.4370000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:08:55.4780000</RealTime>
@@ -367,6 +383,10 @@
           <RealTime>00:04:34.7500000</RealTime>
           <GameTime>00:04:02.2070000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:26.5490000</RealTime>
+          <GameTime>00:03:09.2910000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -374,8 +394,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:10:53.0770000</RealTime>
-          <GameTime>00:09:54.3920000</GameTime>
+          <RealTime>00:10:10.4350000</RealTime>
+          <GameTime>00:09:21.0290000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:09:57.1670000</RealTime>
@@ -432,6 +452,10 @@
           <RealTime>00:01:02.6400000</RealTime>
           <GameTime>00:00:54.6850000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:04.3750000</RealTime>
+          <GameTime>00:00:55.5920000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -439,8 +463,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:11:59.5310000</RealTime>
-          <GameTime>00:10:53.4060000</GameTime>
+          <RealTime>00:12:11.4510000</RealTime>
+          <GameTime>00:11:14.8660000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:11:43.7620000</RealTime>
@@ -494,6 +518,10 @@
           <RealTime>00:01:06.4540000</RealTime>
           <GameTime>00:00:59.0140000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:01.0160000</RealTime>
+          <GameTime>00:01:53.8370000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -501,8 +529,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:12:30.9090000</RealTime>
-          <GameTime>00:11:10.6580000</GameTime>
+          <RealTime>00:12:43.0780000</RealTime>
+          <GameTime>00:11:33.1390000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:12:14.2320000</RealTime>
@@ -561,6 +589,10 @@
           <RealTime>00:00:31.3780000</RealTime>
           <GameTime>00:00:17.2520000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:31.6270000</RealTime>
+          <GameTime>00:00:18.2730000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -568,8 +600,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:12:51.7350000</RealTime>
-          <GameTime>00:11:27.8130000</GameTime>
+          <RealTime>00:13:04.4030000</RealTime>
+          <GameTime>00:11:50.8590000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:12:34.2310000</RealTime>
@@ -626,6 +658,10 @@
           <RealTime>00:00:20.8260000</RealTime>
           <GameTime>00:00:17.1550000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:21.3250000</RealTime>
+          <GameTime>00:00:17.7200000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -633,8 +669,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:14:50.1410000</RealTime>
-          <GameTime>00:13:22.6820000</GameTime>
+          <RealTime>00:15:10.4030000</RealTime>
+          <GameTime>00:13:53.3130000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:14:16.8750000</RealTime>
@@ -688,6 +724,10 @@
           <RealTime>00:01:58.4060000</RealTime>
           <GameTime>00:01:54.8690000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:06</RealTime>
+          <GameTime>00:02:02.4540000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -695,8 +735,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:17:53.6120000</RealTime>
-          <GameTime>00:16:14.4210000</GameTime>
+          <RealTime>00:18:15.9040000</RealTime>
+          <GameTime>00:16:46.4660000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:17:05.5170000</RealTime>
@@ -753,6 +793,10 @@
           <RealTime>00:03:03.4710000</RealTime>
           <GameTime>00:02:51.7390000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:05.5010000</RealTime>
+          <GameTime>00:02:53.1530000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -760,8 +804,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:20:18.8450000</RealTime>
-          <GameTime>00:18:32.3210000</GameTime>
+          <RealTime>00:20:42.2470000</RealTime>
+          <GameTime>00:19:06.0650000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:19:32.0510000</RealTime>
@@ -818,6 +862,10 @@
           <RealTime>00:02:25.2330000</RealTime>
           <GameTime>00:02:17.9000000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:26.3430000</RealTime>
+          <GameTime>00:02:19.5990000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -825,8 +873,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:30:02.9550000</RealTime>
-          <GameTime>00:27:30.7580000</GameTime>
+          <RealTime>00:26:13.7460000</RealTime>
+          <GameTime>00:24:14.8070000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:24:40.4630000</RealTime>
@@ -883,6 +931,10 @@
           <RealTime>00:09:44.1100000</RealTime>
           <GameTime>00:08:58.4370000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:31.4990000</RealTime>
+          <GameTime>00:05:08.7420000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -890,8 +942,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:30:21.6940000</RealTime>
-          <GameTime>00:27:38.2350000</GameTime>
+          <RealTime>00:26:32.1850000</RealTime>
+          <GameTime>00:24:21.2330000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:24:55.4640000</RealTime>
@@ -950,6 +1002,10 @@
           <RealTime>00:00:18.7390000</RealTime>
           <GameTime>00:00:07.4770000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:18.4390000</RealTime>
+          <GameTime>00:00:06.4260000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -957,8 +1013,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:30:45.5000000</RealTime>
-          <GameTime>00:27:59.5310000</GameTime>
+          <RealTime>00:27:00.3090000</RealTime>
+          <GameTime>00:24:47.0780000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:25:20.0410000</RealTime>
@@ -1012,6 +1068,10 @@
           <RealTime>00:00:23.8060000</RealTime>
           <GameTime>00:00:21.2960000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:28.1240000</RealTime>
+          <GameTime>00:00:25.8450000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1019,8 +1079,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:32:48.5160000</RealTime>
-          <GameTime>00:29:53.0060000</GameTime>
+          <RealTime>00:29:22.3260000</RealTime>
+          <GameTime>00:26:54.0680000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:27:22.6380000</RealTime>
@@ -1077,6 +1137,10 @@
           <RealTime>00:02:03.0160000</RealTime>
           <GameTime>00:01:53.4750000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:22.0170000</RealTime>
+          <GameTime>00:02:06.9900000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1084,8 +1148,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:36:02.6100000</RealTime>
-          <GameTime>00:32:57.3960000</GameTime>
+          <RealTime>00:32:21.5290000</RealTime>
+          <GameTime>00:29:48.7850000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:30:26.4530000</RealTime>
@@ -1139,6 +1203,10 @@
           <RealTime>00:03:14.0940000</RealTime>
           <GameTime>00:03:04.3900000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:59.2030000</RealTime>
+          <GameTime>00:02:54.7170000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1146,8 +1214,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:39:29.2340000</RealTime>
-          <GameTime>00:36:11.2870000</GameTime>
+          <RealTime>00:35:46.6850000</RealTime>
+          <GameTime>00:33:01.1640000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:33:35.9870000</RealTime>
@@ -1204,6 +1272,10 @@
           <RealTime>00:03:26.6240000</RealTime>
           <GameTime>00:03:13.8910000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:25.1560000</RealTime>
+          <GameTime>00:03:12.3790000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1211,8 +1283,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:46:00.1110000</RealTime>
-          <GameTime>00:42:24.7930000</GameTime>
+          <RealTime>00:42:15.4980000</RealTime>
+          <GameTime>00:39:12.5420000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:40:00.2890000</RealTime>
@@ -1220,8 +1292,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:30.8770000</RealTime>
-        <GameTime>00:06:13.5060000</GameTime>
+        <RealTime>00:06:28.8130000</RealTime>
+        <GameTime>00:06:11.3780000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -1269,6 +1341,10 @@
           <RealTime>00:06:30.8770000</RealTime>
           <GameTime>00:06:13.5060000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:06:28.8130000</RealTime>
+          <GameTime>00:06:11.3780000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1276,8 +1352,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:48:01.0320000</RealTime>
-          <GameTime>00:44:15.8630000</GameTime>
+          <RealTime>00:44:06.8100000</RealTime>
+          <GameTime>00:40:53.9640000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:42:00.3080000</RealTime>
@@ -1334,6 +1410,10 @@
           <RealTime>00:02:00.9210000</RealTime>
           <GameTime>00:01:51.0700000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:51.3120000</RealTime>
+          <GameTime>00:01:41.4220000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1341,8 +1421,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:48:16.9400000</RealTime>
-          <GameTime>00:44:19.8810000</GameTime>
+          <RealTime>00:44:23.1430000</RealTime>
+          <GameTime>00:40:57.4610000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:42:17.2450000</RealTime>
@@ -1351,7 +1431,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:00:15.9080000</RealTime>
-        <GameTime>00:00:03.5340000</GameTime>
+        <GameTime>00:00:03.4970000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -1401,6 +1481,10 @@
           <RealTime>00:00:15.9080000</RealTime>
           <GameTime>00:00:04.0180000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:16.3330000</RealTime>
+          <GameTime>00:00:03.4970000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1408,8 +1492,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:48:39.7030000</RealTime>
-          <GameTime>00:44:40.1480000</GameTime>
+          <RealTime>00:44:46.7470000</RealTime>
+          <GameTime>00:41:18.1920000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:42:38.7150000</RealTime>
@@ -1466,6 +1550,10 @@
           <RealTime>00:00:22.7630000</RealTime>
           <GameTime>00:00:20.2670000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:23.6040000</RealTime>
+          <GameTime>00:00:20.7310000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1473,8 +1561,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:52:23.3430000</RealTime>
-          <GameTime>00:48:01.9770000</GameTime>
+          <RealTime>00:48:54.0920000</RealTime>
+          <GameTime>00:45:03.8180000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:46:01.4520000</RealTime>
@@ -1531,6 +1619,10 @@
           <RealTime>00:03:43.6400000</RealTime>
           <GameTime>00:03:21.8290000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:07.3450000</RealTime>
+          <GameTime>00:03:45.6260000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1538,8 +1630,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:58:28.3770000</RealTime>
-          <GameTime>00:53:40.4460000</GameTime>
+          <RealTime>00:54:48.0440000</RealTime>
+          <GameTime>00:50:35.9760000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:51:59.4580000</RealTime>
@@ -1596,6 +1688,10 @@
           <RealTime>00:06:05.0340000</RealTime>
           <GameTime>00:05:38.4690000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:53.9520000</RealTime>
+          <GameTime>00:05:32.1580000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1603,8 +1699,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:02:00.4380000</RealTime>
-          <GameTime>00:57:10.8000000</GameTime>
+          <RealTime>00:58:53.2620000</RealTime>
+          <GameTime>00:54:30.2870000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:55:53.1030000</RealTime>
@@ -1661,6 +1757,10 @@
           <RealTime>00:03:32.0610000</RealTime>
           <GameTime>00:03:30.3540000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:05.2180000</RealTime>
+          <GameTime>00:03:54.3110000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1668,8 +1768,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:03:49.4690000</RealTime>
-          <GameTime>00:58:55.8500000</GameTime>
+          <RealTime>01:00:30.7930000</RealTime>
+          <GameTime>00:56:03.9180000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:57:26.7760000</RealTime>
@@ -1726,6 +1826,10 @@
           <RealTime>00:01:49.0310000</RealTime>
           <GameTime>00:01:45.0500000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:37.5310000</RealTime>
+          <GameTime>00:01:33.6310000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1733,8 +1837,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:05:24.2030000</RealTime>
-          <GameTime>01:00:25.5180000</GameTime>
+          <RealTime>01:02:12.4200000</RealTime>
+          <GameTime>00:57:40.9480000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>00:59:00.4020000</RealTime>
@@ -1791,21 +1895,28 @@
           <RealTime>00:01:34.7340000</RealTime>
           <GameTime>00:01:29.6680000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:41.6270000</RealTime>
+          <GameTime>00:01:37.0300000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Odin</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:34.7480000</RealTime>
+          <GameTime>01:01:57.1190000</GameTime>
+        </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:03:51.8450000</RealTime>
           <GameTime>00:59:28.9640000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:41.7040000</RealTime>
-        <GameTime>00:04:33.1850000</GameTime>
+        <RealTime>00:04:22.3280000</RealTime>
+        <GameTime>00:04:16.1710000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -1850,6 +1961,10 @@
           <GameTime>00:04:33.1850000</GameTime>
         </Time>
         <Time id="46" />
+        <Time id="47">
+          <RealTime>00:04:22.3280000</RealTime>
+          <GameTime>00:04:16.1710000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1857,8 +1972,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:12:46.6740000</RealTime>
-          <GameTime>01:07:36.4720000</GameTime>
+          <RealTime>01:07:56.5110000</RealTime>
+          <GameTime>01:03:17.5690000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:05:15.7210000</RealTime>
@@ -1915,6 +2030,10 @@
           <RealTime>00:07:22.4710000</RealTime>
           <GameTime>00:07:10.9540000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:21.7630000</RealTime>
+          <GameTime>00:01:20.4500000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1922,8 +2041,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:22:36.2570000</RealTime>
-          <GameTime>01:16:29.5920000</GameTime>
+          <RealTime>01:17:10.2480000</RealTime>
+          <GameTime>01:11:27.9400000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:15:42.9030000</RealTime>
@@ -1982,6 +2101,10 @@
           <RealTime>00:09:49.5830000</RealTime>
           <GameTime>00:08:53.1200000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:09:13.7370000</RealTime>
+          <GameTime>00:08:10.3710000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1989,8 +2112,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:28:12.0310000</RealTime>
-          <GameTime>01:21:47.1500000</GameTime>
+          <RealTime>01:22:28.5600000</RealTime>
+          <GameTime>01:16:32.3540000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:21:28.7060000</RealTime>
@@ -1998,8 +2121,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:26.8440000</RealTime>
-        <GameTime>00:05:09.1510000</GameTime>
+        <RealTime>00:05:18.3120000</RealTime>
+        <GameTime>00:05:04.4140000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -2047,6 +2170,10 @@
           <RealTime>00:05:35.7740000</RealTime>
           <GameTime>00:05:17.5580000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:18.3120000</RealTime>
+          <GameTime>00:05:04.4140000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2054,8 +2181,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:28:52.2500000</RealTime>
-          <GameTime>01:22:27.3690000</GameTime>
+          <RealTime>01:23:17.9360000</RealTime>
+          <GameTime>01:17:21.7300000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:22:32.9880000</RealTime>
@@ -2112,6 +2239,10 @@
           <RealTime>00:00:40.2190000</RealTime>
           <GameTime>00:00:40.2190000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:49.3760000</RealTime>
+          <GameTime>00:00:49.3760000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2119,8 +2250,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:30:00.5460000</RealTime>
-          <GameTime>01:23:35.5080000</GameTime>
+          <RealTime>01:24:30.4960000</RealTime>
+          <GameTime>01:18:34.1330000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:23:37.2070000</RealTime>
@@ -2177,6 +2308,10 @@
           <RealTime>00:01:08.2960000</RealTime>
           <GameTime>00:01:08.1390000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:12.5600000</RealTime>
+          <GameTime>00:01:12.4030000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2184,8 +2319,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:30:54.7960000</RealTime>
-          <GameTime>01:24:29.5710000</GameTime>
+          <RealTime>01:25:20.4200000</RealTime>
+          <GameTime>01:19:23.8990000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:24:33.6470000</RealTime>
@@ -2242,6 +2377,10 @@
           <RealTime>00:00:54.2500000</RealTime>
           <GameTime>00:00:54.0630000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:49.9240000</RealTime>
+          <GameTime>00:00:49.7660000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2249,8 +2388,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:33:47.2490000</RealTime>
-          <GameTime>01:27:10.9900000</GameTime>
+          <RealTime>01:27:47.5750000</RealTime>
+          <GameTime>01:21:44.7340000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:27:02.8360000</RealTime>
@@ -2258,8 +2397,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:29.0960000</RealTime>
-        <GameTime>00:02:22.9390000</GameTime>
+        <RealTime>00:02:27.1550000</RealTime>
+        <GameTime>00:02:20.8350000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -2307,6 +2446,10 @@
           <RealTime>00:02:52.4530000</RealTime>
           <GameTime>00:02:41.4190000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:27.1550000</RealTime>
+          <GameTime>00:02:20.8350000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2314,8 +2457,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:36:50.8130000</RealTime>
-          <GameTime>01:30:07.2700000</GameTime>
+          <RealTime>01:30:49.9380000</RealTime>
+          <GameTime>01:24:39.6700000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:30:04.2150000</RealTime>
@@ -2323,8 +2466,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:03.5640000</RealTime>
-        <GameTime>00:02:56.2800000</GameTime>
+        <RealTime>00:03:02.3630000</RealTime>
+        <GameTime>00:02:54.9360000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -2372,6 +2515,10 @@
           <RealTime>00:03:03.5640000</RealTime>
           <GameTime>00:02:56.2800000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:02.3630000</RealTime>
+          <GameTime>00:02:54.9360000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2379,8 +2526,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:39:59.8760000</RealTime>
-          <GameTime>01:33:15.7680000</GameTime>
+          <RealTime>01:33:51.5600000</RealTime>
+          <GameTime>01:27:40.7310000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:33:01.9060000</RealTime>
@@ -2437,6 +2584,10 @@
           <RealTime>00:03:09.0630000</RealTime>
           <GameTime>00:03:08.4980000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:01.6220000</RealTime>
+          <GameTime>00:03:01.0610000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2444,8 +2595,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:40:47.2660000</RealTime>
-          <GameTime>01:33:54.0200000</GameTime>
+          <RealTime>01:34:39.5130000</RealTime>
+          <GameTime>01:28:19.9690000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:33:49.4990000</RealTime>
@@ -2500,6 +2651,10 @@
           <RealTime>00:00:47.3900000</RealTime>
           <GameTime>00:00:38.2520000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:47.9530000</RealTime>
+          <GameTime>00:00:39.2380000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2507,8 +2662,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:52:53.6110000</RealTime>
-          <GameTime>01:45:24.6170000</GameTime>
+          <RealTime>01:45:17.4200000</RealTime>
+          <GameTime>01:38:30.8730000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:44:47.0100000</RealTime>
@@ -2516,8 +2671,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:54.0350000</RealTime>
-        <GameTime>00:11:11.6240000</GameTime>
+        <RealTime>00:10:37.9070000</RealTime>
+        <GameTime>00:10:10.9040000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -2557,6 +2712,10 @@
           <RealTime>00:12:06.3450000</RealTime>
           <GameTime>00:11:30.5970000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:10:37.9070000</RealTime>
+          <GameTime>00:10:10.9040000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2564,8 +2723,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:53:45.0940000</RealTime>
-          <GameTime>01:46:06.1010000</GameTime>
+          <RealTime>01:46:09.3860000</RealTime>
+          <GameTime>01:39:12.8980000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:45:38.6980000</RealTime>
@@ -2616,6 +2775,10 @@
           <RealTime>00:00:51.4830000</RealTime>
           <GameTime>00:00:41.4840000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:51.9660000</RealTime>
+          <GameTime>00:00:42.0250000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2623,8 +2786,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:00:32.4070000</RealTime>
-          <GameTime>01:51:58.8180000</GameTime>
+          <RealTime>01:51:22.7790000</RealTime>
+          <GameTime>01:44:04.6590000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>01:51:00.7500000</RealTime>
@@ -2632,8 +2795,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:18.0940000</RealTime>
-        <GameTime>00:04:52.3960000</GameTime>
+        <RealTime>00:05:13.3930000</RealTime>
+        <GameTime>00:04:51.7610000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -2673,6 +2836,10 @@
           <RealTime>00:06:47.3130000</RealTime>
           <GameTime>00:05:52.7170000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:13.3930000</RealTime>
+          <GameTime>00:04:51.7610000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2680,8 +2847,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:10:06.1730000</RealTime>
-          <GameTime>02:00:53.9840000</GameTime>
+          <RealTime>02:01:29.4970000</RealTime>
+          <GameTime>01:53:22.5490000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:00:18.5720000</RealTime>
@@ -2730,6 +2897,10 @@
           <RealTime>00:09:33.7660000</RealTime>
           <GameTime>00:08:55.1660000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:10:06.7180000</RealTime>
+          <GameTime>00:09:17.8900000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2737,8 +2908,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:18:29.1570000</RealTime>
-          <GameTime>02:08:34.7970000</GameTime>
+          <RealTime>02:08:38.7800000</RealTime>
+          <GameTime>01:59:50.0850000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:06:43.7040000</RealTime>
@@ -2787,6 +2958,10 @@
           <RealTime>00:08:22.9840000</RealTime>
           <GameTime>00:07:40.8130000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:07:09.2830000</RealTime>
+          <GameTime>00:06:27.5360000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2794,8 +2969,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:20:03.9850000</RealTime>
-          <GameTime>02:09:52.6870000</GameTime>
+          <RealTime>02:10:07.6080000</RealTime>
+          <GameTime>02:01:03.2120000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:08:14.3620000</RealTime>
@@ -2803,8 +2978,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:30.3580000</RealTime>
-        <GameTime>00:01:13.1400000</GameTime>
+        <RealTime>00:01:28.8280000</RealTime>
+        <GameTime>00:01:13.1270000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -2844,6 +3019,10 @@
           <RealTime>00:01:34.8280000</RealTime>
           <GameTime>00:01:17.8900000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:28.8280000</RealTime>
+          <GameTime>00:01:13.1270000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2851,8 +3030,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:20:49.0460000</RealTime>
-          <GameTime>02:10:37.7480000</GameTime>
+          <RealTime>02:10:49.0910000</RealTime>
+          <GameTime>02:01:44.6950000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:08:55.4250000</RealTime>
@@ -2901,6 +3080,10 @@
           <RealTime>00:00:45.0610000</RealTime>
           <GameTime>00:00:45.0610000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:41.4830000</RealTime>
+          <GameTime>00:00:41.4830000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2908,8 +3091,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:23:53.3140000</RealTime>
-          <GameTime>02:13:36.5590000</GameTime>
+          <RealTime>02:13:57.4020000</RealTime>
+          <GameTime>02:04:47.2240000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:12:03.8660000</RealTime>
@@ -2958,6 +3141,10 @@
           <RealTime>00:03:04.2680000</RealTime>
           <GameTime>00:02:58.8110000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:08.3110000</RealTime>
+          <GameTime>00:03:02.5290000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2965,8 +3152,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:24:02.1860000</RealTime>
-          <GameTime>02:13:38.1340000</GameTime>
+          <RealTime>02:14:06.9810000</RealTime>
+          <GameTime>02:04:49.0530000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:12:14.0990000</RealTime>
@@ -3017,6 +3204,10 @@
           <RealTime>00:00:08.8720000</RealTime>
           <GameTime>00:00:01.5750000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:09.5790000</RealTime>
+          <GameTime>00:00:01.8290000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3024,8 +3215,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:31:35.0610000</RealTime>
-          <GameTime>02:20:06.2910000</GameTime>
+          <RealTime>02:22:37.6870000</RealTime>
+          <GameTime>02:12:14.2250000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:19:56.3280000</RealTime>
@@ -3074,6 +3265,10 @@
           <RealTime>00:07:32.8750000</RealTime>
           <GameTime>00:06:28.1570000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:08:30.7060000</RealTime>
+          <GameTime>00:07:25.1720000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3081,8 +3276,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:33:26.9680000</RealTime>
-          <GameTime>02:21:47.5550000</GameTime>
+          <RealTime>02:24:31.2790000</RealTime>
+          <GameTime>02:13:57.8510000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:21:49.7650000</RealTime>
@@ -3131,6 +3326,10 @@
           <RealTime>00:01:51.9070000</RealTime>
           <GameTime>00:01:41.2640000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:53.5920000</RealTime>
+          <GameTime>00:01:43.6260000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3138,8 +3337,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:33:36.0650000</RealTime>
-          <GameTime>02:21:49.3560000</GameTime>
+          <RealTime>02:24:41.0110000</RealTime>
+          <GameTime>02:14:00.3810000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:21:59.3130000</RealTime>
@@ -3190,6 +3389,10 @@
           <RealTime>00:00:09.0970000</RealTime>
           <GameTime>00:00:01.8010000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:09.7320000</RealTime>
+          <GameTime>00:00:02.5300000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3197,8 +3400,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:34:55.3600000</RealTime>
-          <GameTime>02:22:53.5060000</GameTime>
+          <RealTime>02:26:47.1850000</RealTime>
+          <GameTime>02:15:51.6050000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:23:20.5800000</RealTime>
@@ -3247,6 +3450,10 @@
           <RealTime>00:01:19.2950000</RealTime>
           <GameTime>00:01:04.1500000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:06.1740000</RealTime>
+          <GameTime>00:01:51.2240000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3254,8 +3461,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:37:12.1880000</RealTime>
-          <GameTime>02:25:09.6480000</GameTime>
+          <RealTime>02:28:59.3420000</RealTime>
+          <GameTime>02:18:03.0760000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:25:32.8320000</RealTime>
@@ -3263,8 +3470,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:16.5460000</RealTime>
-        <GameTime>00:02:15.8590000</GameTime>
+        <RealTime>00:02:12.1570000</RealTime>
+        <GameTime>00:02:11.4710000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -3304,6 +3511,10 @@
           <RealTime>00:02:16.8280000</RealTime>
           <GameTime>00:02:16.1420000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:12.1570000</RealTime>
+          <GameTime>00:02:11.4710000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3311,8 +3522,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:42:40.6710000</RealTime>
-          <GameTime>02:30:06.0520000</GameTime>
+          <RealTime>02:34:08.0930000</RealTime>
+          <GameTime>02:22:39.7820000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:30:51.3840000</RealTime>
@@ -3361,6 +3572,10 @@
           <RealTime>00:05:28.4830000</RealTime>
           <GameTime>00:04:56.4040000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:08.7510000</RealTime>
+          <GameTime>00:04:36.7060000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3368,8 +3583,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:48:00.7660000</RealTime>
-          <GameTime>02:35:10.4270000</GameTime>
+          <RealTime>02:39:37.2480000</RealTime>
+          <GameTime>02:27:39.6630000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:36:38.2950000</RealTime>
@@ -3418,6 +3633,10 @@
           <RealTime>00:05:20.0950000</RealTime>
           <GameTime>00:05:04.3750000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:29.1550000</RealTime>
+          <GameTime>00:04:59.8810000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3425,8 +3644,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:52:26.5790000</RealTime>
-          <GameTime>02:39:23.8220000</GameTime>
+          <RealTime>02:43:42.4050000</RealTime>
+          <GameTime>02:31:36.7610000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:41:15.3640000</RealTime>
@@ -3475,6 +3694,10 @@
           <RealTime>00:04:25.8130000</RealTime>
           <GameTime>00:04:13.3950000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:05.1570000</RealTime>
+          <GameTime>00:03:57.0980000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3482,8 +3705,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:54:48.4850000</RealTime>
-          <GameTime>02:41:38.6350000</GameTime>
+          <RealTime>02:46:06.5130000</RealTime>
+          <GameTime>02:33:53.8980000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:43:34.8180000</RealTime>
@@ -3529,6 +3752,10 @@
           <RealTime>00:02:21.9060000</RealTime>
           <GameTime>00:02:14.8130000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:24.1080000</RealTime>
+          <GameTime>00:02:17.1370000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3536,8 +3763,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:56:09.6240000</RealTime>
-          <GameTime>02:42:59.7740000</GameTime>
+          <RealTime>02:47:27.9820000</RealTime>
+          <GameTime>02:35:15.3670000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:45:15.3200000</RealTime>
@@ -3586,6 +3813,10 @@
           <RealTime>00:01:21.1390000</RealTime>
           <GameTime>00:01:21.1390000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:21.4690000</RealTime>
+          <GameTime>00:01:21.4690000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3593,8 +3824,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:58:07.2170000</RealTime>
-          <GameTime>02:44:57.3670000</GameTime>
+          <RealTime>02:49:19.6070000</RealTime>
+          <GameTime>02:37:06.9920000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:47:11.8680000</RealTime>
@@ -3643,6 +3874,10 @@
           <RealTime>00:01:57.5930000</RealTime>
           <GameTime>00:01:57.5930000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:51.6250000</RealTime>
+          <GameTime>00:01:51.6250000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3650,8 +3885,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:00:11.1400000</RealTime>
-          <GameTime>02:47:01.2900000</GameTime>
+          <RealTime>02:50:32.6380000</RealTime>
+          <GameTime>02:38:20.0230000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:48:24.3550000</RealTime>
@@ -3700,6 +3935,10 @@
           <RealTime>00:02:03.9230000</RealTime>
           <GameTime>00:02:03.9230000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:13.0310000</RealTime>
+          <GameTime>00:01:13.0310000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3707,8 +3946,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:05:05.7480000</RealTime>
-          <GameTime>02:51:51.5990000</GameTime>
+          <RealTime>02:56:20.2340000</RealTime>
+          <GameTime>02:44:02.7300000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:53:04.9070000</RealTime>
@@ -3757,6 +3996,10 @@
           <RealTime>00:04:54.6080000</RealTime>
           <GameTime>00:04:50.3090000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:47.5960000</RealTime>
+          <GameTime>00:05:42.7070000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3764,8 +4007,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:05:18.4370000</RealTime>
-          <GameTime>02:51:53.7410000</GameTime>
+          <RealTime>02:56:34.7010000</RealTime>
+          <GameTime>02:44:05.8670000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:53:18.5790000</RealTime>
@@ -3816,6 +4059,10 @@
           <RealTime>00:00:12.6890000</RealTime>
           <GameTime>00:00:02.1420000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:14.4670000</RealTime>
+          <GameTime>00:00:03.1370000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3823,8 +4070,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:07:25.9220000</RealTime>
-          <GameTime>02:53:53.6370000</GameTime>
+          <RealTime>02:58:41.5630000</RealTime>
+          <GameTime>02:46:04.9630000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>02:55:17.4090000</RealTime>
@@ -3832,8 +4079,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:07.4850000</RealTime>
-        <GameTime>00:01:59.8960000</GameTime>
+        <RealTime>00:02:06.8620000</RealTime>
+        <GameTime>00:01:59.0960000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -3873,6 +4120,10 @@
           <RealTime>00:02:07.4850000</RealTime>
           <GameTime>00:01:59.8960000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:06.8620000</RealTime>
+          <GameTime>00:01:59.0960000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3880,8 +4131,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:15:27.9520000</RealTime>
-          <GameTime>03:01:42.3740000</GameTime>
+          <RealTime>03:07:24.5610000</RealTime>
+          <GameTime>02:54:21.1350000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:03:36.9320000</RealTime>
@@ -3930,6 +4181,10 @@
           <RealTime>00:08:02.0300000</RealTime>
           <GameTime>00:07:48.7370000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:08:42.9980000</RealTime>
+          <GameTime>00:08:16.1720000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3937,8 +4192,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:22:57.1100000</RealTime>
-          <GameTime>03:08:42.0480000</GameTime>
+          <RealTime>03:14:47.9200000</RealTime>
+          <GameTime>03:01:19.8220000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:12:43.2060000</RealTime>
@@ -3987,6 +4242,10 @@
           <RealTime>00:07:29.1580000</RealTime>
           <GameTime>00:06:59.6740000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:07:23.3590000</RealTime>
+          <GameTime>00:06:58.6870000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3994,8 +4253,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:23:36.6240000</RealTime>
-          <GameTime>03:09:09.3550000</GameTime>
+          <RealTime>03:15:26.4360000</RealTime>
+          <GameTime>03:01:46.4720000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:13:22.9880000</RealTime>
@@ -4003,8 +4262,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:39.5140000</RealTime>
-        <GameTime>00:00:26.8080000</GameTime>
+        <RealTime>00:00:38.5160000</RealTime>
+        <GameTime>00:00:26.6500000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -4046,6 +4305,10 @@
           <RealTime>00:00:39.5140000</RealTime>
           <GameTime>00:00:27.3070000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:38.5160000</RealTime>
+          <GameTime>00:00:26.6500000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4053,8 +4316,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:27:33.4850000</RealTime>
-          <GameTime>03:12:54.1060000</GameTime>
+          <RealTime>03:20:12.1380000</RealTime>
+          <GameTime>03:06:03.8290000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:17:37.1500000</RealTime>
@@ -4103,6 +4366,10 @@
           <RealTime>00:03:56.8610000</RealTime>
           <GameTime>00:03:44.7510000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:45.7020000</RealTime>
+          <GameTime>00:04:17.3570000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4110,8 +4377,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:38:38.8110000</RealTime>
-          <GameTime>03:23:36.9770000</GameTime>
+          <RealTime>03:31:32.2170000</RealTime>
+          <GameTime>03:16:52.3620000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:28:32.5820000</RealTime>
@@ -4160,6 +4427,10 @@
           <RealTime>00:11:05.3260000</RealTime>
           <GameTime>00:10:42.8710000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:11:20.0790000</RealTime>
+          <GameTime>00:10:48.5330000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4167,8 +4438,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:42:53.4210000</RealTime>
-          <GameTime>03:27:42.2410000</GameTime>
+          <RealTime>03:35:44.0610000</RealTime>
+          <GameTime>03:20:54.6160000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:32:39.7880000</RealTime>
@@ -4176,8 +4447,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:14.6100000</RealTime>
-        <GameTime>00:04:05.2640000</GameTime>
+        <RealTime>00:04:11.8440000</RealTime>
+        <GameTime>00:04:02.2540000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0">
@@ -4219,6 +4490,10 @@
           <RealTime>00:04:14.6100000</RealTime>
           <GameTime>00:04:05.2640000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:11.8440000</RealTime>
+          <GameTime>00:04:02.2540000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4226,8 +4501,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:53:48.4360000</RealTime>
-          <GameTime>03:37:25.2380000</GameTime>
+          <RealTime>03:46:10.6230000</RealTime>
+          <GameTime>03:30:20.0640000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:42:57.5340000</RealTime>
@@ -4235,8 +4510,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:10:31.7800000</RealTime>
-        <GameTime>00:09:30.8360000</GameTime>
+        <RealTime>00:10:26.5620000</RealTime>
+        <GameTime>00:09:25.4480000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="0" />
@@ -4276,6 +4551,10 @@
           <RealTime>00:10:55.0150000</RealTime>
           <GameTime>00:09:42.9970000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:10:26.5620000</RealTime>
+          <GameTime>00:09:25.4480000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4283,8 +4562,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:56:33.8900000</RealTime>
-          <GameTime>03:40:04.7840000</GameTime>
+          <RealTime>03:49:33.8400000</RealTime>
+          <GameTime>03:33:37.5160000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:45:04.0370000</RealTime>
@@ -4333,6 +4612,10 @@
           <RealTime>00:02:45.4540000</RealTime>
           <GameTime>00:02:39.5460000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:23.2170000</RealTime>
+          <GameTime>00:03:17.4520000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4340,8 +4623,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:57:55.0330000</RealTime>
-          <GameTime>03:41:24.8310000</GameTime>
+          <RealTime>03:50:58.0130000</RealTime>
+          <GameTime>03:35:00.3950000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:46:30.2400000</RealTime>
@@ -4390,6 +4673,10 @@
           <RealTime>00:01:21.1430000</RealTime>
           <GameTime>00:01:20.0470000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:01:24.1730000</RealTime>
+          <GameTime>00:01:22.8790000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4397,8 +4684,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:02:14.7170000</RealTime>
-          <GameTime>03:45:22.1160000</GameTime>
+          <RealTime>03:56:10.9350000</RealTime>
+          <GameTime>03:39:50.4180000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:50:05.7290000</RealTime>
@@ -4447,6 +4734,10 @@
           <RealTime>00:04:19.6840000</RealTime>
           <GameTime>00:03:57.2850000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:12.9220000</RealTime>
+          <GameTime>00:04:50.0230000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4454,8 +4745,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:09:08.6570000</RealTime>
-          <GameTime>03:51:58.2300000</GameTime>
+          <RealTime>04:02:55.2630000</RealTime>
+          <GameTime>03:46:21.1170000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:55:39.2800000</RealTime>
@@ -4504,6 +4795,10 @@
           <RealTime>00:06:53.9400000</RealTime>
           <GameTime>00:06:36.1140000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:06:44.3280000</RealTime>
+          <GameTime>00:06:30.6990000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4511,8 +4806,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:12:03.5940000</RealTime>
-          <GameTime>03:54:51.7300000</GameTime>
+          <RealTime>04:05:49.8260000</RealTime>
+          <GameTime>03:49:14.4000000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>03:58:17.2830000</RealTime>
@@ -4561,6 +4856,10 @@
           <RealTime>00:02:54.9370000</RealTime>
           <GameTime>00:02:53.5000000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:54.5630000</RealTime>
+          <GameTime>00:02:53.2830000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4568,8 +4867,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:22:53.7160000</RealTime>
-          <GameTime>04:05:01.4400000</GameTime>
+          <RealTime>04:14:38.2950000</RealTime>
+          <GameTime>03:57:39.8360000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:07:21.3710000</RealTime>
@@ -4620,6 +4919,10 @@
           <RealTime>00:10:50.1220000</RealTime>
           <GameTime>00:10:09.7100000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:08:48.4690000</RealTime>
+          <GameTime>00:08:25.4360000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4627,8 +4930,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:32:52.7630000</RealTime>
-          <GameTime>04:14:15.5430000</GameTime>
+          <RealTime>04:24:16.2800000</RealTime>
+          <GameTime>04:06:51.5540000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:16:31.1600000</RealTime>
@@ -4677,6 +4980,10 @@
           <RealTime>00:09:59.0470000</RealTime>
           <GameTime>00:09:14.1030000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:09:37.9850000</RealTime>
+          <GameTime>00:09:11.7180000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4684,8 +4991,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:33:30.5140000</RealTime>
-          <GameTime>04:14:38.7930000</GameTime>
+          <RealTime>04:24:51.5450000</RealTime>
+          <GameTime>04:07:12.4640000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:17:09.3190000</RealTime>
@@ -4693,7 +5000,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:35.6560000</RealTime>
+        <RealTime>00:00:35.2650000</RealTime>
         <GameTime>00:00:20.7170000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -4732,6 +5039,10 @@
           <RealTime>00:00:37.7510000</RealTime>
           <GameTime>00:00:23.2500000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:35.2650000</RealTime>
+          <GameTime>00:00:20.9100000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4739,8 +5050,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:34:17.0600000</RealTime>
-          <GameTime>04:15:19.2800000</GameTime>
+          <RealTime>04:25:38.5770000</RealTime>
+          <GameTime>04:07:53.5230000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:17:59.5680000</RealTime>
@@ -4785,6 +5096,10 @@
           <RealTime>00:00:46.5460000</RealTime>
           <GameTime>00:00:40.4870000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:47.0320000</RealTime>
+          <GameTime>00:00:41.0590000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4792,8 +5107,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:37:06.5450000</RealTime>
-          <GameTime>04:17:45.6570000</GameTime>
+          <RealTime>04:28:34.4350000</RealTime>
+          <GameTime>04:10:26.2630000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:20:54.0240000</RealTime>
@@ -4838,6 +5153,10 @@
           <RealTime>00:02:49.4850000</RealTime>
           <GameTime>00:02:26.3770000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:55.8580000</RealTime>
+          <GameTime>00:02:32.7400000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4845,8 +5164,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:40:43.8750000</RealTime>
-          <GameTime>04:21:17.5460000</GameTime>
+          <RealTime>04:33:56.5750000</RealTime>
+          <GameTime>04:15:26.5210000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:24:35.2470000</RealTime>
@@ -4891,6 +5210,10 @@
           <RealTime>00:03:37.3300000</RealTime>
           <GameTime>00:03:31.8890000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:05:22.1400000</RealTime>
+          <GameTime>00:05:00.2580000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4898,8 +5221,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:45:02.1860000</RealTime>
-          <GameTime>04:25:26.7510000</GameTime>
+          <RealTime>04:38:27.4500000</RealTime>
+          <GameTime>04:19:38.2070000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:28:53.1880000</RealTime>
@@ -4944,6 +5267,10 @@
           <RealTime>00:04:18.3110000</RealTime>
           <GameTime>00:04:09.2050000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:30.8750000</RealTime>
+          <GameTime>00:04:11.6860000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -4951,8 +5278,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:48:33.8890000</RealTime>
-          <GameTime>04:28:47.2370000</GameTime>
+          <RealTime>04:40:47.1690000</RealTime>
+          <GameTime>04:21:54.3330000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:31:12.4090000</RealTime>
@@ -4997,6 +5324,10 @@
           <RealTime>00:03:31.7030000</RealTime>
           <GameTime>00:03:20.4860000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:02:19.7190000</RealTime>
+          <GameTime>00:02:16.1260000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5004,8 +5335,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:02:45.0460000</RealTime>
-          <GameTime>04:42:21.0460000</GameTime>
+          <RealTime>04:58:03.4680000</RealTime>
+          <GameTime>04:37:44.9630000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:44:36.1570000</RealTime>
@@ -5050,6 +5381,10 @@
           <RealTime>00:14:11.1570000</RealTime>
           <GameTime>00:13:33.8090000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:17:16.2990000</RealTime>
+          <GameTime>00:15:50.6300000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5057,8 +5392,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:03:02.8900000</RealTime>
-          <GameTime>04:42:28.6920000</GameTime>
+          <RealTime>04:58:21.6090000</RealTime>
+          <GameTime>04:37:52.9070000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:44:53.1570000</RealTime>
@@ -5105,6 +5440,10 @@
           <RealTime>00:00:17.8440000</RealTime>
           <GameTime>00:00:07.6460000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:00:18.1410000</RealTime>
+          <GameTime>00:00:07.9440000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5112,8 +5451,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:09:40.3100000</RealTime>
-          <GameTime>04:48:54.3330000</GameTime>
+          <RealTime>05:06:50.9040000</RealTime>
+          <GameTime>04:45:59.5780000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:51:27.5070000</RealTime>
@@ -5158,6 +5497,10 @@
           <RealTime>00:06:37.4200000</RealTime>
           <GameTime>00:06:25.6410000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:08:29.2950000</RealTime>
+          <GameTime>00:08:06.6710000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5165,8 +5508,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:12:24.3260000</RealTime>
-          <GameTime>04:51:22.8760000</GameTime>
+          <RealTime>05:09:54.7330000</RealTime>
+          <GameTime>04:48:47.6810000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:53:43.8990000</RealTime>
@@ -5211,6 +5554,10 @@
           <RealTime>00:02:44.0160000</RealTime>
           <GameTime>00:02:28.5430000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:03:03.8290000</RealTime>
+          <GameTime>00:02:48.1030000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5218,8 +5565,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:16:48.9040000</RealTime>
-          <GameTime>04:55:45.3410000</GameTime>
+          <RealTime>05:14:23.2950000</RealTime>
+          <GameTime>04:53:14.3340000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>04:57:58.8730000</RealTime>
@@ -5264,6 +5611,10 @@
           <RealTime>00:04:24.5780000</RealTime>
           <GameTime>00:04:22.4650000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:28.5620000</RealTime>
+          <GameTime>00:04:26.6530000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5271,8 +5622,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:20:05.0940000</RealTime>
-          <GameTime>04:58:45.9530000</GameTime>
+          <RealTime>05:19:18.8880000</RealTime>
+          <GameTime>04:57:42.5210000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>05:01:46.9400000</RealTime>
@@ -5317,6 +5668,10 @@
           <RealTime>00:03:16.1900000</RealTime>
           <GameTime>00:03:00.6120000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:55.5930000</RealTime>
+          <GameTime>00:04:28.1870000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5324,8 +5679,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:26:28.1840000</RealTime>
-          <GameTime>05:04:58.5810000</GameTime>
+          <RealTime>05:23:43.2650000</RealTime>
+          <GameTime>05:02:05.6330000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>05:05:40.4740000</RealTime>
@@ -5370,6 +5725,10 @@
           <RealTime>00:06:23.0900000</RealTime>
           <GameTime>00:06:12.6280000</GameTime>
         </Time>
+        <Time id="47">
+          <RealTime>00:04:24.3770000</RealTime>
+          <GameTime>00:04:23.1120000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5377,8 +5736,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:28:06.8590000</RealTime>
-          <GameTime>05:06:25.2270000</GameTime>
+          <RealTime>05:25:42.8110000</RealTime>
+          <GameTime>05:03:52.0270000</GameTime>
         </SplitTime>
         <SplitTime name="Roosta">
           <RealTime>05:07:28.4760000</RealTime>
@@ -5424,6 +5783,10 @@
         <Time id="46">
           <RealTime>00:01:38.6750000</RealTime>
           <GameTime>00:01:26.6460000</GameTime>
+        </Time>
+        <Time id="47">
+          <RealTime>00:01:59.5460000</RealTime>
+          <GameTime>00:01:46.3940000</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
